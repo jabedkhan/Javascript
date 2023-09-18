@@ -59,10 +59,10 @@
 // 19. Imagine you have an employee ID of 8 digits. The first employee ID is 00000001. If you can declare a variable with the number value: 199 how can you make it total 8 digits by adding an additional 0 at the beginning? Think and try to use string methods.
 
 
-let text = "199";
-let padded = text.padStart(8,"0");
+// let text = "199";
+// let padded = text.padStart(8,"0");
 
-console.log(padded)
+// console.log(padded)
 
 
 
